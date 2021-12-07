@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hosehosendo
-- 👀 I’m interested in autpmation
+- 👋 Hi, I’m Hubert Łoś
+- 👀 I’m interested in automation
 - 🌱 I’m currently learning python/c++
 - 💞️ I’m looking to collaborate on projects that make life easier
 - 📫 How to reach me : hubertlosofficial@gmail.com
